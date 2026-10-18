@@ -35,6 +35,7 @@ extern "C" {
 #define LOG_TAG "bt_vendor"
 
 #include <sys/socket.h>
+#include <sys/uio.h>
 #include <utils/Log.h>
 #include <sys/types.h>
 #include <sys/stat.h>
